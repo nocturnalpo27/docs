@@ -11,6 +11,15 @@
   "navigation": {
     "tabs": [
       {
+        "tab": "Procedimientos",
+        "groups": [
+          {
+            "group": "AXA",
+            "pages": ["axa/vida-individual-sise"]
+          }
+        ]
+      },
+      {
         "tab": "Guides",
         "groups": [
           {
