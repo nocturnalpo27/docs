@@ -10,15 +10,7 @@
   "favicon": "/favicon.svg",
   "navigation": {
     "tabs": [
-      {
-        "tab": "Procedimientos",
-        "groups": [
-          {
-            "group": "AXA",
-            "pages": ["axa/vida-individual-sise"]
-          }
-        ]
-      },
+ 
       {
         "tab": "Guides",
         "groups": [
@@ -53,6 +45,15 @@
               "ai-tools/claude-code",
               "ai-tools/windsurf"
             ]
+          }
+        ]
+      },
+           {
+        "tab": "Procedimientos",
+        "groups": [
+          {
+            "group": "AXA",
+            "pages": ["axa/vida-individual-sise"]
           }
         ]
       },
